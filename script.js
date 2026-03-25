@@ -4,7 +4,7 @@ const NAZWISKA = [
   "Null","Bagiński","Czaja","Domcio","Górecki","Górski","Gręda","Kaja",
   "Kawul","Kopaczewski","Kopeć","Kotus","Kuligowski","Majewski","Fifi",
   "Mroczek","Nagodziński","Pająk","Podsiad","Roszpuna","Rojo","Kinga",
-  "Skowron","Sobczak","Ślączko","Wąsikowski","Woszczyk","Alicja","Zjawa"
+  "Skowron","Sobczak","cwel","Wąsikowski","Woszczyk","Alicja","Zjawa"
 ];
 
 const LESSON_DAYS = [1, 2, 3, 5]; 

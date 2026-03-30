@@ -1,10 +1,10 @@
 const KLASA = 28;
 
 const NAZWISKA = [
-  "Null","Bagiński","Czaja","Domcio","Górecki","Górski","Gręda","Kaja",
+  "Null","Bagiński","Czaja","Domcio","Górecki","Micy","Gręda","Kaja",
   "Kawul","Kopaczewski","Kopeć","Kotus","Kuligowski","Majewski","Fifi",
   "Mroczek","Nagodziński","Pająk","Podsiad","Roszpuna","Rojo","Kinga",
-  "Skowron","Sobczak","cwel","Wąsikowski","Woszczyk","Alicja","Zjawa"
+  "Rysiu","Sobczak","Janpol","Wąsikowski","Woszczyk","Alicja","Zjawa"
 ];
 
 const LESSON_DAYS = [1, 2, 3, 5]; 
